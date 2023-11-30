@@ -1,0 +1,68 @@
+/*@media only screen and (max-width: 1040px) {*/
+/*    .mobile-display{*/
+/*       display: none;*/
+/*    }*/
+/*}*/
+/*#topnav.topbar-light .navbar-custom .navbar-toggle span {*/
+/*    background-color: #000000;*/
+/*}*/
+
+@media only screen and (max-width: 1040px) {
+    .mobile-display{
+       display: none;
+    }
+}
+/* #topnav.topbar-light .navbar-custom .navbar-toggle span {
+    background-color: #193E72;
+} */
+
+.logo {
+    line-height: 70px;
+    width: 240px;
+    display: block;
+    text-align: center;
+    background: #fff !important;
+}
+
+.text-white span {
+    color: #fff !important;
+    background: #fff !important;
+}
+
+.left-side-menu-dark #sidebar-menu > ul > li > a.active {
+    color: #f1f8fe !important;
+    background-color: #0D13F5 !important;
+    border-right-color: #f1f8fe !important;
+}
+.left-side-menu-dark #sidebar-menu > ul > li > a {
+    color: #fff !important;
+}
+.navbar-custom {
+  background:#716DEE !important;
+}
+
+.left-side-menu-dark {
+  background: #716DEE !important;
+    color: #f1f8fe;
+}
+
+.bg-primary .card-header {
+  background: #0D13F5 !important;
+}
+
+.bg-account-pages {
+  background: #193E72 !important;
+}
+
+.bg-info {
+  background: #716DEE !important;
+}
+
+.btn-primary {
+  background: #0D13F5 !important;
+  border:1px solid #0D13F5 !important;
+}
+.btn-info {
+    background: #716DEE !important;
+    border:1px solid #716DEE !important;
+}
